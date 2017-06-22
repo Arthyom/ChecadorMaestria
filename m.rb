@@ -1,0 +1,10 @@
+sEntrada = "1000001 100000 1101101 1101001 1110011 100000 1101000 1110101 1100101 1110110 1101111 1110011 100001 100001 100001 101100 100000 1110000 1101001 1101110 1100011 1101000 1100101 100000 1101101 1100001 1110010 1101001 1100011 1100001"
+arrBytes = sEntrada.split(' ')
+arrBytes.each {  |byte| print byte.to_i(2).chr() }
+
+puts 
+scad = "A mis huevos!!!, pinche marica"
+l = scad.bytes()
+l.each do |elemtn|
+	print elemtn.to_s(2),' '
+end

@@ -1,0 +1,11 @@
+C:\Users\Frodo\Documents\ChecadorMaestria\ChecadorMaestria\bin\Debug\ChecadorMaestria.exe.config
+C:\Users\Frodo\Documents\ChecadorMaestria\ChecadorMaestria\bin\Debug\ChecadorMaestria.exe
+C:\Users\Frodo\Documents\ChecadorMaestria\ChecadorMaestria\bin\Debug\ChecadorMaestria.pdb
+C:\Users\Frodo\Documents\ChecadorMaestria\ChecadorMaestria\obj\Debug\ChecadorMaestria.csprojResolveAssemblyReference.cache
+C:\Users\Frodo\Documents\ChecadorMaestria\ChecadorMaestria\obj\Debug\ChecadorMaestria.Form1.resources
+C:\Users\Frodo\Documents\ChecadorMaestria\ChecadorMaestria\obj\Debug\ChecadorMaestria.Properties.Resources.resources
+C:\Users\Frodo\Documents\ChecadorMaestria\ChecadorMaestria\obj\Debug\ChecadorMaestria.csproj.GenerateResource.Cache
+C:\Users\Frodo\Documents\ChecadorMaestria\ChecadorMaestria\obj\Debug\ChecadorMaestria.exe
+C:\Users\Frodo\Documents\ChecadorMaestria\ChecadorMaestria\obj\Debug\ChecadorMaestria.pdb
+C:\Users\Frodo\Documents\ChecadorMaestria\ChecadorMaestria\bin\Debug\itextsharp.dll
+C:\Users\Frodo\Documents\ChecadorMaestria\ChecadorMaestria\bin\Debug\itextsharp.xml
